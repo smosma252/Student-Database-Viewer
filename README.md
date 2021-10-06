@@ -43,4 +43,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 This is a frontend user-interface thats connects to API asn easily to any database through simple setup. This collects the informations and displays the data onto fronend where user can interact filter and update information on the users. 
 
-[](images/assessment2.gif)
+![](images/assessment2.gif)
