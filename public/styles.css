@@ -1,0 +1,14 @@
+body {
+    background-color: #DCDCDC;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
